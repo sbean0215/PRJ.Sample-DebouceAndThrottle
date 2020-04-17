@@ -1,0 +1,2 @@
+rootProject.name='PRJ.Sample-DebouceAndThrottle'
+include ':app'
